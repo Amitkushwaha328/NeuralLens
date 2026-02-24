@@ -2,9 +2,6 @@
 
 **NeuralLens** is a lightning-fast desktop tool that uses Multimodal AI to "see" your screen and answer questions instantly. Built with Python, it captures your display, processes the image using **Groq (Llama 4)** or **Google Gemini**, and overlays the solution in a minimal pop-up window.
 
-![Demo](https://via.placeholder.com/800x400?text=NeuralLens+Demo+Screenshot+Here) 
-*(Add a screenshot of your tool in action here!)*
-
 ## 🚀 Features
 
 * **Instant Screen Capture:** Snaps your screen in milliseconds using `mss`.
